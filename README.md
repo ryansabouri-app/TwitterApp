@@ -39,7 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+My emulator was quite slow when I recorded the gif making it a bit difficult to show the infinite pagination user story.
 
 ## Open-source libraries used
 
